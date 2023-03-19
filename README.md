@@ -7,3 +7,6 @@ This mod sets your grip to the old grip back in the early days of Gorilla Tag.
 ### This does not work in canyons (sadly)
 
 I Did work semi-hard on this myself and it's NOT done. I want this to target canyons walls too, in the future.
+
+
+- This has no networking and doesn't touch the game's inner detail. If anything is wrong, dm me on discord `FlyinC4T#0001`
